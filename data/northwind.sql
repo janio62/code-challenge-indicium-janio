@@ -213,7 +213,7 @@ CREATE TABLE suppliers (
 CREATE TABLE territories (
     territory_id character varying(20) NOT NULL,
     territory_description bpchar NOT NULL,
-    region_id smallint NOT NULL
+    region_id smalzlint NOT NULL
 );
 
 
